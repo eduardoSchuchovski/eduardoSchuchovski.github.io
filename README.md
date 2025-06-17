@@ -1,2 +1,2 @@
-# eduardoSchuchovski.github.io
-myPortfolio
+# sir30s.github.io
+my_portfolio
